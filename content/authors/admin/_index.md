@@ -7,22 +7,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: jindi930617@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=x5QTK9YAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jind11
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jindi11/
 organizations:
   - name: Amazon Alexa AI
     url: ""
@@ -30,10 +24,10 @@ education:
   courses:
     - course: PhD
       institution: Massachusetts Institute of Technology
-      year: ""
+      year: 2020
     - course: Bachelor
       institution: Tsinghua University
-      year: ""
+      year: 2015
 superuser: true
 last_name: Bighetti
 role: Applied Scientist
