@@ -1,10 +1,9 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: wechatimg586.jpeg
+bio: My research interests include natural language processing, deep learning,
+  conversational modeling, etc.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,15 +39,16 @@ education:
       year: 2008
 superuser: true
 last_name: Bighetti
-role: Professor of Artificial Intelligence
+role: Applied Scientist
 highlight_name: true
 title: Di Jin 金帝
 first_name: Alice
 email: ""
 ---
+I am Di. I am currently working as an Applied Scientist at Amazon Alexa AI. Our team, Conversational Modeling Science Team, is lead by [Dilek Hakkani-Tur](https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en) and it is a pure research lab focusing on both task-oriented and open-domain dialogue systems. We conduct cutting-edge research on any topics related to conversational modeling, including natural language understanding, language generation, large foundation models, etc. And we publish many papers in various top-tier conferences and journals every year. Beside academic achievements, we also productionalize our best models into a SocialBot system that can chat with Alexa users intelligently. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before this position, I was conducting my PhD study at [CSAIL](https://www.csail.mit.edu/) of MIT, supervised by Prof. [Peter Szolovits](http://groups.csail.mit.edu/medg/people/psz/home/Pete_MEDG_site/Home.html) at the [Clinical Decision Making Group](http://groups.csail.mit.edu/medg/). During PhD, my research has been focusing on Natural Language Processing (NLP), mainly on transfer learning, adversarial robustness, and stylistic text generation. Past projects cover a wide range of NLP tasks, such as question answering, sequence labeling, text classification, text generation, and relation extraction. Besides developing NLP models, I have also applied some of them onto healthcare problems, such as clinical notes processing, disease progression prediction, biomedical literature analysis, etc. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Welcome to contact me and discuss any possible research collaborations! Our team is constantly hiring research interns for any time over the year, so if you are currently a PhD candidate and looking for an intern, free free to contact me with your resume!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
