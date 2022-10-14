@@ -28,15 +28,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: ""
+    - course: Bachelor
+      institution: Tsinghua University
+      year: ""
 superuser: true
 last_name: Bighetti
 role: Applied Scientist
@@ -49,6 +46,8 @@ I am Di. I am currently working as an Applied Scientist at Amazon Alexa AI. Our 
 
 Before this position, I was conducting my PhD study at [CSAIL](https://www.csail.mit.edu/) of MIT, supervised by Prof. [Peter Szolovits](http://groups.csail.mit.edu/medg/people/psz/home/Pete_MEDG_site/Home.html) at the [Clinical Decision Making Group](http://groups.csail.mit.edu/medg/). During PhD, my research has been focusing on Natural Language Processing (NLP), mainly on transfer learning, adversarial robustness, and stylistic text generation. Past projects cover a wide range of NLP tasks, such as question answering, sequence labeling, text classification, text generation, and relation extraction. Besides developing NLP models, I have also applied some of them onto healthcare problems, such as clinical notes processing, disease progression prediction, biomedical literature analysis, etc. 
 
-Welcome to contact me and discuss any possible research collaborations! Our team is constantly hiring research interns for any time over the year, so if you are currently a PhD candidate and looking for an intern, free free to contact me with your resume!
+Welcome to contact me and discuss any possible research collaborations! 
+
+Our team is constantly hiring research interns for any time over the year, so if you are currently a PhD candidate and looking for an intern, free free to contact me with your resume!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
