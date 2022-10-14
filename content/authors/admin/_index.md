@@ -1,5 +1,5 @@
 ---
-avatar_filename: wechatimg586.jpeg
+avatar_filename: wechatimg586.png
 bio: My research interests include natural language processing, deep learning,
   conversational modeling, etc.
 interests:
