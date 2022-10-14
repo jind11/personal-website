@@ -1,5 +1,5 @@
 ---
-avatar_filename: phonetool.png
+avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, deep learning,
   conversational modeling, etc.
 interests:
