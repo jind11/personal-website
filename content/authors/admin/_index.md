@@ -3,12 +3,11 @@ avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, deep learning,
   conversational modeling, etc.
 interests:
-  - ""
+  - Natural Language Processing
+  - Conversational Modeling
+  - Deep Learning
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: jindi930617@gmail.com
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=x5QTK9YAAAAJ
   - icon: github
