@@ -8,7 +8,7 @@ interests:
   - Deep Learning
 social:
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=x5QTK9YAAAAJ
   - icon: github
     icon_pack: fab
